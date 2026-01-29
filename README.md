@@ -214,10 +214,3 @@ This project was developed with AI assistance. All prompts used during developme
 - [Durable Objects Documentation](https://developers.cloudflare.com/durable-objects/)
 - [Cloudflare Pages Documentation](https://developers.cloudflare.com/pages/)
 
-## Contributing
-
-This is a submission project. For questions or issues, please refer to the assignment guidelines.
-
-## License
-
-MIT
