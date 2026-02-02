@@ -43,9 +43,6 @@ This project fulfills all required components:
 - State automatically syncs across all connected clients
 - Searchable incident history with filtering
 
-## Architecture
-
-
 ## Quick Start
 
 ### Prerequisites
